@@ -1,0 +1,344 @@
+#EXTM3U x-tvg-url="http://e.erw.cc/e.xml.gz"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV-1 综合
+udp://239.37.0.8:5540
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="央视",CCTV-2 财经
+udp://239.37.0.3:5540
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="央视",CCTV-3 综艺
+udp://239.37.0.231:5540
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="央视",CCTV-4 中文国际（亚）
+udp://239.37.1.25:5540
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="央视",CCTV-5 体育
+udp://239.37.0.232:5540
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="央视",CCTV-5+ 体育赛事
+udp://239.37.0.121:5540
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="央视",CCTV-6 电影
+udp://239.37.0.233:5540
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="央视",CCTV-7 国防军事
+udp://239.37.1.20:5540
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="央视",CCTV-8 电视剧
+udp://239.37.0.234:5540
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="央视",CCTV-9 纪录
+udp://239.37.0.1:5540
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="央视",CCTV-10 科教
+udp://239.37.0.7:5540
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="央视",CCTV-11 戏曲
+udp://239.37.1.26:5540
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="央视",CCTV-12 社会与法
+udp://239.37.0.6:5540
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="央视",CCTV-13 新闻
+udp://239.37.1.27:5540
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="央视",CCTV-14 少儿
+udp://239.37.0.5:5540
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="央视",CCTV-15 音乐
+udp://239.37.1.28:5540
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+udp://239.37.1.21:5540
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="央视",CCTV-17 农业农村
+udp://239.37.0.2:5540
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV4欧洲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4oz.png" group-title="央视",CCTV-4 中文国际（欧）
+udp://239.37.1.11:5540
+#EXTINF:-1 tvg-id="20" tvg-name="CCTV4美洲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4mz.png" group-title="央视",CCTV-4 中文国际（美）
+udp://239.37.1.12:5540
+
+#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+udp://239.37.0.31:5540
+#EXTINF:-1,CCTV-164K
+udp://239.37.1.22:5540
+#EXTINF:-1 ,东方卫视4K
+udp://239.37.0.21:5540
+#EXTINF:-1,湖南卫视4K
+udp://239.37.0.45:5540
+#EXTINF:-1,广东卫视4K
+udp://239.37.0.62:5540
+#EXTINF:-1,四川卫视4K
+udp://239.37.0.57:5540
+#EXTINF:-1,深圳卫视4K
+udp://239.37.0.58:5540
+#EXTINF:-1,江苏卫视4K
+udp://239.37.0.92:5540
+#EXTINF:-1,浙江卫视4K
+udp://239.37.0.99:5540
+#EXTINF:-1,山东卫视4K
+udp://239.37.0.100:5540
+#EXTINF:-1,北京卫视4K
+udp://239.37.0.109:5540
+#EXTINF:-1 tvg-id="98" tvg-name="吉林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jilin.png" group-title="卫视",吉林卫视
+udp://239.37.0.111:5540
+#EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="卫视",北京卫视
+udp://239.37.0.9:5540
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="卫视",东方卫视
+udp://239.37.0.123:5540
+#EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视
+udp://239.37.0.112:5540
+#EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="卫视",浙江卫视
+udp://239.37.0.153:5540
+#EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="卫视",湖南卫视
+udp://239.37.0.10:5540
+#EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" group-title="卫视",辽宁卫视
+udp://239.37.0.160:5540
+#EXTINF:-1 tvg-id="84" tvg-name="天津卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Tianjin.png" group-title="卫视",天津卫视
+udp://239.37.0.4:5540
+#EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="卫视",深圳卫视
+udp://239.37.0.14:5540
+#EXTINF:-1 tvg-id="87" tvg-name="安徽卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anhui.png" group-title="卫视",安徽卫视
+udp://239.37.0.159:5540
+#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视",广东卫视
+udp://239.37.0.12:5540
+#EXTINF:-1 tvg-id="89" tvg-name="山东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="卫视",山东卫视
+udp://239.37.0.15:5540
+#EXTINF:-1 tvg-id="79" tvg-name="贵州卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guizhou.png" group-title="卫视",贵州卫视
+udp://239.37.0.157:5540
+#EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Heilongjiang.png" group-title="卫视",黑龙江卫视
+udp://239.37.0.13:5540
+#EXTINF:-1 tvg-id="93" tvg-name="河北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png" group-title="卫视",河北卫视
+udp://239.37.0.154:5540
+#EXTINF:-1 tvg-id="96" tvg-name="东南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongnan.png" group-title="卫视",东南卫视
+udp://239.37.0.124:5540
+#EXTINF:-1 tvg-id="85" tvg-name="湖北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" group-title="卫视",湖北卫视
+udp://239.37.0.16:5540
+#EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png" group-title="卫视",重庆卫视
+udp://239.37.0.158:5540
+#EXTINF:-1 tvg-id="94" tvg-name="云南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan.png" group-title="卫视",云南卫视
+udp://239.37.0.89:5540
+#EXTINF:-1 tvg-id="97" tvg-name="海南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hainan.png" group-title="卫视",海南卫视
+udp://239.37.0.102:5540
+#EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" group-title="卫视",陕西卫视
+udp://239.37.0.103:5540
+#EXTINF:-1 tvg-id="104" tvg-name="青海卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" group-title="卫视",青海卫视
+udp://239.37.0.104:5540
+#EXTINF:-1 tvg-id="100" tvg-name="河南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Henan.png" group-title="卫视",河南卫视
+udp://239.37.0.155:5540
+
+#EXTINF:-1 tvg-id="109" tvg-name="山西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi_.png" group-title="卫视",山西卫视
+udp://239.37.0.52:5540
+#EXTINF:-1 tvg-id="95" tvg-name="江西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png" group-title="卫视",江西卫视
+udp://239.37.0.156:5540
+#EXTINF:-1 tvg-id="103" tvg-name="广西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangxi.png" group-title="卫视",广西卫视
+udp://239.37.1.23:5540
+
+#EXTINF:-1 tvg-id="106" tvg-name="西藏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xizang.png" group-title="卫视",西藏卫视
+udp://239.37.0.37:5540
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="卫视",四川卫视
+udp://239.37.0.151:5540
+
+#EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Bingtuan.png" group-title="卫视",兵团卫视
+udp://239.37.0.33:5540
+#EXTINF:-1,内蒙古卫视
+udp://239.37.0.36:5540
+#EXTINF:-1,延边卫视
+udp://239.37.0.116:5540
+#EXTINF:-1,三沙卫视
+udp://239.37.0.200:5540
+#EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" group-title="卫视",甘肃卫视
+udp://239.37.1.30:5540
+
+#EXTINF:-1 tvg-id="105" tvg-name="新疆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xinjiang.png" group-title="卫视",新疆卫视
+udp://239.37.0.56:5540
+
+#EXTINF:-1 tvg-id="108" tvg-name="宁夏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Ningxia.png" group-title="卫视",宁夏卫视
+udp://239.37.0.49:5540
+#EXTINF:-1 tvg-id="181" tvg-name="CHC家庭影院" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC2.png" group-title="数字",CHC家庭影院
+udp://239.37.0.188:5540
+#EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC3.png" group-title="数字",CHC动作电影
+udp://239.37.0.186:5540
+#EXTINF:-1 tvg-id="182" tvg-name="CHC影迷电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC1.png" group-title="数字",CHC影迷电影
+udp://239.37.0.187:5540
+#EXTINF:-1 tvg-id="390" tvg-name="睛彩竞技" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png" group-title="数字",睛彩竞技
+udp://239.37.0.41:5540
+#EXTINF:-1 tvg-id="391" tvg-name="睛彩篮球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png" group-title="数字",睛彩篮球
+udp://239.37.0.38:5540
+#EXTINF:-1 tvg-id="389" tvg-name="睛彩青少" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai02.png" group-title="数字",睛彩青少
+udp://239.37.0.40:5540
+#EXTINF:-1 tvg-id="392" tvg-name="睛彩广场舞" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai01.png" group-title="数字",睛彩广场舞
+udp://239.37.0.42:5540
+#EXTINF:-1 tvg-id="138" tvg-name="第一剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="数字",第一剧场
+udp://239.37.0.78:5540
+#EXTINF:-1 tvg-id="139" tvg-name="风云剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="数字",风云剧场
+udp://239.37.0.114:5540
+#EXTINF:-1 tvg-id="140" tvg-name="怀旧剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="数字",怀旧剧场
+udp://239.37.0.82:5540
+#EXTINF:-1,老故事
+udp://239.37.0.44:5540
+#EXTINF:-1,发现之旅
+udp://239.37.0.46:5540
+#EXTINF:-1,卡酷少儿
+udp://239.37.0.76:5540
+#EXTINF:-1,金鹰卡通
+udp://239.37.0.61:5540
+#EXTINF:-1,嘉佳卡通
+udp://239.37.0.67:5540
+#EXTINF:-1,榆树综合
+udp://239.37.0.51:5540
+#EXTINF:-1,环球奇观
+udp://239.37.0.70:5540
+#EXTINF:-1,文物宝库
+udp://239.37.0.87:5540
+#EXTINF:-1,汽摩
+udp://239.37.0.90:5540
+#EXTINF:-1,国学
+udp://239.37.0.93:5540 
+#EXTINF:-1,中学生
+udp://239.37.0.95:5540
+#EXTINF:-1,纪实科教
+udp://239.37.0.101:5540  
+#EXTINF:-1,家有购物
+udp://239.37.0.110:5540
+#EXTINF:-1,书画
+udp://239.37.0.113:5540
+#EXTINF:-1,聚鲨环球精选
+udp://239.37.0.139:5540
+#EXTINF:-1,金鹰纪实
+udp://239.37.0.161:5540 
+#EXTINF:-1,中国交通
+udp://239.37.0.226:5540
+#EXTINF:-1,武术世界
+udp://239.37.0.227:5540
+#EXTINF:-1,梨园
+udp://239.37.0.228:5540
+#EXTINF:-1,法治天地
+udp://239.37.0.238:5540
+#EXTINF:-1,金色学堂
+udp://239.37.0.239:5540
+#EXTINF:-1,生活时尚
+udp://239.37.0.240:5540
+#EXTINF:-1,都市剧场
+udp://239.37.0.241:5540
+#EXTINF:-1,乐游
+udp://239.37.0.236:5540
+#EXTINF:-1,快乐垂钓
+udp://239.37.0.244:5540
+#EXTINF:-1,茶
+udp://239.37.0.245:5540
+#EXTINF:-1,CRT综合
+udp://239.37.0.96:5540
+#EXTINF:-1,CRT文旅体育
+udp://239.37.0.97:5540
+#EXTINF:-1,CRT市民生活
+udp://239.37.0.98:5540
+#EXTINF:-1,长影
+udp://239.37.0.125:5540
+#EXTINF:-1,吉林教育
+udp://239.37.0.126:5540
+#EXTINF:-1,吉视都市
+udp://239.37.1.2:5540
+#EXTINF:-1,吉视影视
+udp://239.37.1.3:5540
+#EXTINF:-1,吉视生活
+udp://239.37.1.4:5540
+#EXTINF:-1,吉视乡村
+udp://239.37.1.5:5540 
+#EXTINF:-1,吉视综艺文化
+udp://239.37.1.7:5540
+#EXTINF:-1,吉林市新闻综合
+udp://239.37.0.127:5540
+#EXTINF:-1,吉林市科教
+udp://239.37.0.128:5540 
+#EXTINF:-1,四平-1
+udp://239.37.0.130:5540
+#EXTINF:-1,四平-2
+udp://239.37.0.131:5540
+#EXTINF:-1,通化-1
+udp://239.37.0.132:5540
+#EXTINF:-1,通化-2
+udp://239.37.0.133:5540
+#EXTINF:-1,通化-3
+udp://239.37.0.134:5540
+#EXTINF:-1,白城新闻综合
+udp://239.37.0.135:5540
+#EXTINF:-1,白城生活
+udp://239.37.0.136:5540
+#EXTINF:-1,白山-1 新闻综合
+udp://239.37.0.137:5540
+#EXTINF:-1,白山-2 旅游生活
+udp://239.37.0.138:5540
+#EXTINF:-1,磐石综合
+udp://239.37.0.164:5540
+#EXTINF:-1,汪清-1
+udp://239.37.0.165:5540
+#EXTINF:-1,图们-1
+udp://239.37.0.166:5540
+#EXTINF:-1,延吉综合
+udp://239.37.0.167:5540
+#EXTINF:-1,梨树新闻
+udp://239.37.0.168:5540
+#EXTINF:-1,双辽融媒
+udp://239.37.0.169:5540
+#EXTINF:-1,公主岭综合
+udp://239.37.0.170:5540
+#EXTINF:-1,伊通-1
+udp://239.37.0.171:5540
+#EXTINF:-1,柳河综合
+udp://239.37.0.172:5540
+#EXTINF:-1,梅河口
+udp://239.37.0.173:5540
+#EXTINF:-1,辉南新闻综合
+udp://239.37.0.174:5540
+#EXTINF:-1,镇赉综合
+udp://239.37.0.175:5540
+#EXTINF:-1,通榆
+udp://239.37.0.176:5540
+#EXTINF:-1,大安新闻综合
+udp://239.37.0.177:5540
+#EXTINF:-1,东辽 
+udp://239.37.0.178:5540
+#EXTINF:-1,东丰综合
+udp://239.37.0.179:5540
+#EXTINF:-1,扶余
+udp://239.37.0.180:5540
+#EXTINF:-1,乾安综合
+udp://239.37.0.181:5540
+#EXTINF:-1,舒兰综合
+udp://239.37.0.217:5540
+#EXTINF:-1,洮南-1
+udp://239.37.0.218:5540
+#EXTINF:-1,抚松综合
+udp://239.37.0.219:5540
+#EXTINF:-1,临江
+udp://239.37.0.220:5540
+#EXTINF:-1,桦甸综合
+udp://239.37.0.225:5540
+#EXTINF:-1,松原
+udp://239.37.0.246:5540
+#EXTINF:-1,松原生活
+udp://239.37.0.247:5540
+#EXTINF:-1,双阳综合
+udp://239.37.1.24:5540
+#EXTINF:-1,敦化
+udp://239.37.1.29:5540
+#EXTINF:-1,CETV-2
+udp://239.37.1.31:5540
+#EXTINF:-1,CETV-4
+udp://239.37.1.32:5540
+#EXTINF:-1 tvg-id="141" tvg-name="世界地理" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="数字",世界地理
+udp://239.37.0.79:5540
+#EXTINF:-1 tvg-id="142" tvg-name="风云音乐" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="数字",风云音乐
+udp://239.37.0.81:5540
+#EXTINF:-1 tvg-id="143" tvg-name="兵器科技" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="数字",兵器科技
+udp://239.37.0.84:5540
+#EXTINF:-1 tvg-id="144" tvg-name="风云足球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="数字",风云足球
+udp://239.37.0.80:5540
+#EXTINF:-1 tvg-id="145" tvg-name="高尔夫网球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="数字",高尔夫网球
+udp://239.37.0.230:5540
+#EXTINF:-1 tvg-id="146" tvg-name="女性时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="数字",女性时尚
+udp://239.37.0.69:5540
+#EXTINF:-1 tvg-id="147" tvg-name="央视文化精品" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="数字",央视文化精品
+udp://239.37.0.83:5540
+#EXTINF:-1 tvg-id="148" tvg-name="央视台球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="数字",央视台球
+udp://239.37.0.163:5540
+
+#EXTINF:-1 tvg-id="435" tvg-name="卫生健康" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="数字",卫生健康
+udp://239.37.0.229:5540
+#EXTINF:-1 tvg-id="436" tvg-name="电视指南" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="数字",电视指南
+udp://239.37.0.115:5540
+#EXTINF:-1 tvg-id="25" tvg-name="CGTN" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="CGTN",CGTN
+udp://239.37.1.13:5540
+#EXTINF:-1 tvg-id="21" tvg-name="CGTN西语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTNxbyy.png" group-title="CGTN",CGTN 西班牙语
+udp://239.37.1.15:5540
+#EXTINF:-1 tvg-id="22" tvg-name="CGTN法语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTNfy.png" group-title="CGTN",CGTN 法语
+udp://239.37.1.16:5540
+#EXTINF:-1 tvg-id="24" tvg-name="CGTN阿语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTNalby.png" group-title="CGTN",CGTN 阿拉伯语
+udp://239.37.1.17:5540
+#EXTINF:-1 tvg-id="23" tvg-name="CGTN俄语" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTNey.png" group-title="CGTN",CGTN 俄语
+udp://239.37.1.18:5540
+#EXTINF:-1 tvg-id="29" tvg-name="CGTN纪录" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTNjilu.png" group-title="CGTN",CGTN 纪录
+udp://239.37.1.14:5540
