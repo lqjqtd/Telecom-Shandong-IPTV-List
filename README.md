@@ -23,7 +23,7 @@
 | `Unicom-Shandong-Multicast.m3u` | 山东联通组播 | 群友贡献 |
 | `Unicom-Shandong.m3u` | 山东联通单播 | 群友贡献 |
 | `Mobile-Shandong.m3u` | 山东移动单播 | 群友贡献 |
-| `扫描/` | 扫描数据 | 包含组播标清和高清的扫描数据表格 |
+| `联通组播地市级` | `济南 242` `泰安 240` `德州 250` `济宁 244` `威海 230` `菏泽 236` `烟台 248` `潍坊 246` `莱芜 222` `滨州 234` `聊城 228` `日照 224` `淄博 252` `东营 232` `青岛 254` `枣庄 226` | 每个城市第三段IP不同，可自行替换 |
 | `img/` | 台标资源 | 目前列表内使用的是扫描器仓库内的台标，此文件夹仅作保留，不再更新 |
 
 ## 📺 播放列表使用
@@ -48,7 +48,8 @@
 
 | 提供商 | 地址 | 特点 |
 |--------|------|------|
-| 时光轨车 | `https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/refs/heads/main/EPG/sggc.xml.gz` | 适配本整理源并适配本源的县级频道 |
+| sumingyd | `https://raw.githubusercontent.com/sumingyd/xml/refs/heads/main/epg.xml` | 适配本整理源并适配本源的县级频道，含desc节目描述 |
+| 时光轨车 | `https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc-desc.xml.gz` | 适配本整理源并适配本源的县级频道，含desc节目描述 |
 | 老张EPG | `http://epg.51zmt.top:8000/e.xml.gz` | 老张 |
 | epg.pw | `https://epg.pw/xmltv/epg_CN.xml` | 中国频道专用 |
 
